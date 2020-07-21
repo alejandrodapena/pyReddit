@@ -12,7 +12,6 @@ This program uploads to your Twitter profile all images posted in various subred
 --------------------    MODULES     --------------------
 -imageDownloader.py
 -logic.py
--upload.py
 -main.py
 
 --------------------    FILES    --------------------
